@@ -1,4 +1,5 @@
 Train your classifier on the data contained in XTrain and yTrain by running
+
 D = NB_XGivenY(XTrain, yTrain);
 p = NB_YPrior(yTrain);
 Use the learned classifier to predict the labels for the article feature vectors in XTrain and XTest by
