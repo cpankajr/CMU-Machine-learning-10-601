@@ -1,3 +1,4 @@
+# How to train and test data using Naive Bayes classifier
 Train your classifier on the data contained in XTrain and yTrain by running
 
 D = NB_XGivenY(XTrain, yTrain);
